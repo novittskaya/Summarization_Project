@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+nltk
+rutermextract
+evaluate
+rouge-score
+tqdm
+requests
+beautifulsoup4
+
+# Transformers + datasets
+transformers==4.36.2
+datasets
+accelerate==0.25.0
+
+# training utils
+scikit-learn
+
+# optional: better tokenizers support
+sentencepiece
